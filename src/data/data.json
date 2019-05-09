@@ -1,0 +1,797 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1762,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XRcOswEACAAJ",
+      "etag": "16Wp4K6KRmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XRcOswEACAAJ",
+      "volumeInfo": {
+        "title": "The Bad Beginning",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publishedDate": "2016-02-25",
+        "description": "'If you are interested in stories with happy endings, you would be better off reading some other book.' Violet, Klaus and Sunny Baudelaire are most unfortunate children. Orphaned after the sudden death of their parents in a house fire, they are left in the hands of their guardian, Count Olaf, who has diabolical plans for them . . . 'A Series of Unfortunate Events' has sold more than 60 million copies worldwide, has been translated into 41 languages and was adapted into a 2004 film starring Jim Carrey. 'Wicked good fun' - Kirkus Reviews",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405281782"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405281782"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Brothers and sisters"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XRcOswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XRcOswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=XRcOswEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=XRcOswEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Bad_Beginning.html?hl=&id=XRcOswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XRcOswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;If you are interested in stories with happy endings, you would be better off reading some other book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZdLczKSj3MYC",
+      "etag": "kDlEBATgHSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZdLczKSj3MYC",
+      "volumeInfo": {
+        "title": "A Series of Unfortunate Events Collection:",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2012-06-12",
+        "description": "NOW A NETFLIX ORIGINAL SERIES A Warning from the Publisher: If you have come this far, it is likely too late. Readers who have experienced the first nine volumes in A Series of Unfortunate Events by Lemony Snicket are usually so weakened by their dreadful knowledge of the Baudelaire orphans' story that they spend most of their time moaning and weeping, and have no strength to read The Slippery Slope, The Grim Grotto, The Penultimate Peril, or The End. If, by chance, your moaning and weeping is more or less under control, there is no need to further risk your physical, emotional, and literary health by reading the four remaining volumes in the series. It would be better to regain your strength by spending your time indulging in less alarming activities, such as whistling or making cupcakes for the elderly. After all, this collection contains all of the calamities in the last four volumes of A Series of Unfortunate Events, including abandoned condiments, cigarette smoking, a shocking revelation, a ridiculous laugh, a fearsome storm, a herd of wild sheep, a truly haunting secret about the Baudelaire parents, another shocking revelation, and Phil. There is no need to expose yourself to such atrocities, not after all you've been through already.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062224996"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062224999"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.23.23.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZdLczKSj3MYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZdLczKSj3MYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZdLczKSj3MYC&printsec=frontcover&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZdLczKSj3MYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ZdLczKSj3MYC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZdLczKSj3MYC&rdid=book-ZdLczKSj3MYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Series_of_Unfortunate_Events_Collectio-sample-epub.acsm?id=ZdLczKSj3MYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZdLczKSj3MYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After all, this collection contains all of the calamities in the last four volumes of A Series of Unfortunate Events, including abandoned condiments, cigarette smoking, a shocking revelation, a ridiculous laugh, a fearsome storm, a herd of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pFB6AAAACAAJ",
+      "etag": "2nXMjr8uEjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pFB6AAAACAAJ",
+      "volumeInfo": {
+        "title": "The Beatrice Letters",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Egmont Books (UK)",
+        "publishedDate": "2006-09",
+        "description": "Who is Beatrice, the woman to whom Mr Snicket dedicates every book? There is no question more often asked by fans of Lemony Snicket. Now this captivating collection of letters between Lemony Snicket and Beatrice provides the answers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405227486"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405227483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pFB6AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pFB6AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pFB6AAAACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pFB6AAAACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Beatrice_Letters.html?hl=&id=pFB6AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pFB6AAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a collection of correspondence between Lemony Snicket and the mysterious Beatrice."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2MBtLwEACAAJ",
+      "etag": "eltVsZmoSUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2MBtLwEACAAJ",
+      "volumeInfo": {
+        "title": "The Ersatz Elevator",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Egmont Books (UK)",
+        "publishedDate": "2012",
+        "description": "There is nothing to be found in the pages of A Series of Unfortunate Events but misery and despair. You still have time to choose another international best-seller to read. But if you must know what unpleasantries befall the charming and clever Baudelaire children read on . . . The Ersatz Elevator is the sixth instalment in A Series of Unfortunate Events in which Violet, Klaus and Sunny Baudelaire encounter a darkened staircase, a red herring, friends in a dire situation, three mysterious initials, a liar with an evil scheme, a secret passageway and parsley soda. With 5 million copies sold in the UK alone, one might consider Lemony Snicket’s A Series of Unfortunate Events to make him one of the most successful children’s authors of the past decade. We, however, consider these miserable so-called adventure stories and the Hollywood film starring Jim Carrey that accompanied the books for children as nothing more than a dreadful mistake.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405266120"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405266123"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Baudelaire, Klaus (Fictitious character)"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2MBtLwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2MBtLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2MBtLwEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2MBtLwEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ersatz_Elevator.html?hl=&id=2MBtLwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2MBtLwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this four-book series a 13-year-old Lemony chronicles his dangerous and puzzling apprenticeship in a mysterious organisation that nobody knows anything about: &#39;&#39;Who Could That Be at This Hour?&#39;&#39; &#39;&#39;When Did you Last See Her?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MARsRAAACAAJ",
+      "etag": "VYL3TyurQBk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MARsRAAACAAJ",
+      "volumeInfo": {
+        "title": "The Penultimate Peril",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Egmont Books (UK)",
+        "publishedDate": "2010-09-01",
+        "description": "The Baudelaire orphans disguise themselves as employees of the Hotel Denoument and find themselves pursued by the evil Count Olaf and others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405253878"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405253871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Baudelaire, Klaus (Fictitious character)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MARsRAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MARsRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MARsRAAACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MARsRAAACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Penultimate_Peril.html?hl=&id=MARsRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MARsRAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Baudelaire orphans disguise themselves as employees of the Hotel Denoument and find themselves pursued by the evil Count Olaf and others."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NL6-QgAACAAJ",
+      "etag": "hza+6xh4qg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NL6-QgAACAAJ",
+      "volumeInfo": {
+        "title": "The Hostile Hospital",
+        "authors": [
+          "Lemony Snicket",
+          "Brett Helquist"
+        ],
+        "publishedDate": "2010-07-05",
+        "description": "There is nothing to be found in the pages of A Series of Unfortunate Events but misery and despair. You still have time to choose another international best-seller to read. But if you must know what unpleasantries befall the charming and clever Baudelaire children read on . . . There are many pleasant things to read about, but The Hostile Hospital contains none of them. Within its pages are such burdensome details as a suspicious shopkeeper, unnecessary surgery, heartshaped balloons, and some very starling news about a fire. Clearly you do not want to read about such things. With 5 million copies sold in the UK alone, one might consider Lemony Snicket’s A Series of Unfortunate Events to make him one of the most successful children’s authors of the past decade. We, however, consider these miserable so-called adventure stories and the Hollywood film starring Jim Carrey that accompanied the books for children as nothing more than a dreadful mistake.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405253835"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405253833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 255,
+        "printType": "BOOK",
+        "categories": [
+          "Baudelaire, Klaus (Fictitious character)"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 36,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NL6-QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NL6-QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=NL6-QgAACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=NL6-QgAACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hostile_Hospital.html?hl=&id=NL6-QgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NL6-QgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hGxrmwEACAAJ",
+      "etag": "5cmoXMCINtk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hGxrmwEACAAJ",
+      "volumeInfo": {
+        "title": "A Series of Unfortunate Events #13 CD: The End",
+        "subtitle": "A Series of Unfortunate Events #13 CD: The End",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2006-10-13",
+        "description": "Dear Listener, You are presumably looking at the back of this audiobook, or the end of the end. The end of the end is the best place to begin the end, because if you listen to the end from the beginning of the beginning of the end to the end of the end of the end, you will arrive at the end of the end of your rope. This audiobook is the last in A Series of Unfortunate Events, and even if you braved the previous twelve volumes, you probably can't stand such unpleasantries as a fearsome storm, a suspicious beverage, a herd of wild sheep, an enormous bird cage, and a truly haunting secret about the Baudelaire parents. I also shouldn't mention the features of the interactive CD, which include: Perplexing word games Photos from The Lemony Snicket Archives Art from The Brett Helquist gallery It has been my solemn occupation to complete the history of the Baudelaire orphans, and at last I am finished. You likely have some other occupation, so if I were you I would drop this audiobook at once, so the end does not finish you. With all due respect, Lemony Snicket",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0060579528"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780060579524"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hGxrmwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hGxrmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=hGxrmwEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=hGxrmwEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Series_of_Unfortunate_Events_13_CD_The.html?hl=&id=hGxrmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hGxrmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This audiobook is the last in A Series of Unfortunate Events, and even if you braved the previous twelve volumes, you probably can&#39;t stand such unpleasantries as a fearsome storm, a suspicious beverage, a herd of wild sheep, an enormous ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t4kmlrXk-P8C",
+      "etag": "hhPKqIPNaBo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t4kmlrXk-P8C",
+      "volumeInfo": {
+        "title": "A Series of Unfortunate Events #6: The Ersatz Elevator",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-10-13",
+        "description": "NOW A NETFLIX ORIGINAL SERIES In their most daring misadventure, the Baudelaire orphans are adopted by very, very rich people, whose penthouse apartment is located mysteriously close to the place where all their misfortune began. Even though their new home in the city is fancy, and the children are clever and charming, I'm sorry to say that still, the unlucky orphans will encounter more disaster and woe. In fact, in this sixth book in A Series of Unfortunate Events, the children will experience a darkened staircase, a red herring, an auction, parsley soda, some friends in a dire situation, a secret passageway, and pinstripe suits. Both literary and irreverent, hilarious and deftly crafted, A Series of Unfortunate Events offers an exquisitely dark comedy in the tradition of Edward Gorey and Roald Dahl. Lemon Snicket's uproariously unhappy books continue to win readers, despite all his warnings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061757181"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061757187"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 44,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t4kmlrXk-P8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t4kmlrXk-P8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=t4kmlrXk-P8C&printsec=frontcover&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t4kmlrXk-P8C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-t4kmlrXk-P8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=t4kmlrXk-P8C&rdid=book-t4kmlrXk-P8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000.0,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000.0,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Series_of_Unfortunate_Events_6_The_Ers-sample-epub.acsm?id=t4kmlrXk-P8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t4kmlrXk-P8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In fact, in this sixth book in A Series of Unfortunate Events, the children will experience a darkened staircase, a red herring, an auction, parsley soda, some friends in a dire situation, a secret passageway, and pinstripe suits."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4JRsLwEACAAJ",
+      "etag": "DxyhGBb/uNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4JRsLwEACAAJ",
+      "volumeInfo": {
+        "title": "The Slippery Slope",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Egmont Books (UK)",
+        "publishedDate": "2012-09-01",
+        "description": "There is nothing to be found in the pages of A Series of Unfortunate Events but misery and despair. You still have time to choose another international best-seller to read. But if you must know what unpleasantries befall the charming and clever Baudelaire children read on . . . Like handshakes, house pets or raw carrots, many things are preferable when not slippery. Unfortunately the Baudelaires run into more than their fair share of slipperiness during their harrowing journey up and down a range of strange and distressing mountains in The Slippery Slope. In order to spare you repulsion it is best not to mention any more regarding a secret message, a toboggan, a deceitful trap, a swarm of snow gnats and a scheming villain. With 5 million copies sold in the UK alone, one might consider Lemony Snicket’s A Series of Unfortunate Events to make him one of the most successful children’s authors of the past decade. We, however, consider these miserable so-called adventure stories and the Hollywood film starring Jim Carrey that accompanied the books for children as nothing more than a dreadful mistake.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405266155"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405266154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Baudelaire, Klaus (Fictitious character)"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4JRsLwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4JRsLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4JRsLwEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4JRsLwEACAAJ&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Slippery_Slope.html?hl=&id=4JRsLwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4JRsLwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this four-book series a 13-year-old Lemony chronicles his dangerous and puzzling apprenticeship in a mysterious organisation that nobody knows anything about: &#39;Who Could That Be at This Hour?&#39; &#39;When Did you Last See Her?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yOV962FsbCEC",
+      "etag": "eQ5kubK9c58",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yOV962FsbCEC",
+      "volumeInfo": {
+        "title": "A Series of Unfortunate Events Complete Collection: Books 1-13",
+        "subtitle": "With Bonus Material",
+        "authors": [
+          "Lemony Snicket"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2011-11-01",
+        "description": "NOW A NETFLIX ORIGINAL SERIES If you have not read anything about the Baudelaire orphans, then before you read even one more sentence, you should know this: Violet, Klaus, and Sunny are kindhearted and quick-witted, but their lives are filled with bad luck and misery. All of the stories about these three children are unhappy and wretched and will most likely fill you with deep despair. From The Bad Beginning to The End, this comprehensive collection with unfortunate bonus material that may or may not include trivia questions, character profiles, and several very sad sentences is the only choice for people who simply cannot get enough of a bad thing!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062132949"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062132946"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1000,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 21,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.18.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yOV962FsbCEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yOV962FsbCEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=yOV962FsbCEC&printsec=frontcover&dq=series%2Bof%2Bunfortunate%2Bevents&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yOV962FsbCEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-yOV962FsbCEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 43.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 43.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yOV962FsbCEC&rdid=book-yOV962FsbCEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4.399E7,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 4.399E7,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/A_Series_of_Unfortunate_Events_Complete-sample-epub.acsm?id=yOV962FsbCEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yOV962FsbCEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From The Bad Beginning to The End, this comprehensive collection with unfortunate bonus material that may or may not include trivia questions, character profiles, and several very sad sentences is the only choice for people who simply ..."
+      }
+    }
+  ]
+}
